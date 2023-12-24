@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidLab3</string>
+    <string name="apikey">pub_353431d33ff026c0912b1fdb26883bebc0d5e</string>
+    <string name="BASE_URL">https://newsdata.io/api/1/</string>
+    <string name="enter_keywords">Enter keywords</string>
+    <string name="search">Search</string>
+    <string name="total_results_0">Total Results: 0</string>
+
+</resources>
